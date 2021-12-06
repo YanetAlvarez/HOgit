@@ -2,3 +2,5 @@
 
 Incluso mejor que las charlas!
 
+----No festejamos hasta que hayamos utilizado correctamente hasta el ultimo comando----
+
