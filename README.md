@@ -12,6 +12,7 @@ Modificar un archivo y agregarlo al repositorio como un nuevo commit
 Creamos un branch acerca de las charlas, y decimos que nos parecen buenísimas
 Pasos con los que armamos el repo de github de HOgit.
 
+---CTPC tengo que decir que estuvieron muy buenas las clases---
 
 ## Cómo creamos este repositorio
 
