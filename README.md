@@ -117,6 +117,29 @@ vi README.md
 git add README.md
 git commit
 ```
+---Resumen de comandos:
+
+git clone "url de github"
+
+git status (siempre usarlo para ver las modificaciones)
+
+git add "archivo" (agrego para seguir)
+
+git commit (agrego esta version)
+
+git commit -m "aca va el mensaje entre comillas"
+
+git config --global --edit (modificar usario y mail)
+
+git branch "nombre" (creo una nueva rama)
+
+git checkout "rama" (me muevo a esa rama)
+
+git merge --no-ff "nombre de la rama"
+
+--no-ff sirve para que no "mezcle" las dos branches
+
+git log --oneline --graph (historial de commit)---
 
 y el push
 
